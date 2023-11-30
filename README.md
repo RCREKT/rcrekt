@@ -1,4 +1,4 @@
-# CRL
+# RCREKT
 Implementation of the research paper Robust Continual Relation Extraction with Knowledge Transfer
 
 ## Framwork of RCREKT
